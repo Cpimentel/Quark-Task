@@ -1,0 +1,1 @@
+CREATE TYPE priority_level AS ENUM ('ALTA', 'MEDIA', 'BAIXA');
